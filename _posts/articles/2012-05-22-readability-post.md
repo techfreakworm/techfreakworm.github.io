@@ -5,9 +5,7 @@ excerpt: "A ton of text to test readability."
 categories: articles
 tags: [sample-post, readability, test, intro]
 image:
-  feature: so-simple-sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: /images/so-simple-sample-image-2.jpg
 comments: true
 share: true
 ---
