@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Techfreak's journey
 locale: en_US
-description: Describe your website here.
+description: Every journey is worth sharing, not to inspire people, but ideas.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://techfreakworm.github.io
 
 # Jekyll configuration
 
@@ -36,22 +36,22 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Mayank Gupta
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  email: techfreakworm@gmail.com
+  disqus-shortname: techfreakworm
+  twitter: techfreakworm
+  facebook: techfreakworm
+  github: techfreakworm
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: techfreakworm
+  instagram: mayankgupta04
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: techfreakworm
     analytics:
     verify:
     ad-client:
