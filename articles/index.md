@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+layout: page-full
+title: Featured Articles
+excerpt: "All the articles that are NOT blog posts."
 search_omit: true
 ---
 
