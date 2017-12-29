@@ -6,6 +6,7 @@ modified:
 categories: blog
 tags: [AI, conference]
 image:
+    feature: nvidia-developers-connect.jpg
 comments: true
 share: true
 ---
