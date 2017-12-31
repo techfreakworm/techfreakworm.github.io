@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-full
 title: NVidia Developer's Connect 2017
 excerpt: "Conference about how AI, Machine Learning and Deep learning is chaning the world and how NVidia is a great contributer to boost this change."
 modified: 
