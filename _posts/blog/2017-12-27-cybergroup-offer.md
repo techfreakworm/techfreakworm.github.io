@@ -4,7 +4,7 @@ title: Offer to work as Associate Engineer at Cyber Group
 excerpt: "About the interview, how I got the offer and why I decided to work here."
 modified: 
 categories: blog
-tags: [Job, Work]
+tags: [Job, Work, CyberGroup]
 comments: true
 share: true
 ---
