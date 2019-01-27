@@ -5,8 +5,7 @@ locale: en_US
 description: Every journey is worth sharing, not to inspire people, but ideas.
 logo: site-logo.png
 search: true
-url: https://techfreakworm.github.io
-
+url: https://techfreakworm.me
 # Jekyll configuration
 
 permalink:   /:categories/:title/
