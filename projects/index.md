@@ -1,7 +1,7 @@
 ---
 layout: page-full
-title: Featured Articles
-excerpt: "All the articles that are NOT blog posts."
+title: Projects
+excerpt: "My passion, hobbies and play time, all summed up."
 search_omit: true
 ---
 

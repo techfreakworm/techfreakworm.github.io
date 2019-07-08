@@ -50,7 +50,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: MayankGuptatechfreak
+    # plus: MayankGuptatechfreak
     analytics: UA-65053216-2
     verify:
     ad-client:
