@@ -1,0 +1,15 @@
+---
+title: Spy Bot
+subtitle: Python + UNIX shell application
+layout: default
+modal-id: 7
+date: 2019-07-09
+img: SpyBot.jpg
+thumbnail: SpyBot.jpg
+alt: image-alt
+# categories: [Web Development, Machine Learning]
+---
+Spying application. Logs all the keystrokes, captures screenshot and sends them to your google drive folder every minute. Parental monitoring at its best.
+<br><br>
+[Source Code](https://github.com/techfreakworm/spybot)
+
