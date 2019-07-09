@@ -1,0 +1,15 @@
+---
+title: Alchem Desktop
+subtitle: Desktop application in JavaFX
+layout: default
+modal-id: 5
+date: 2019-07-09
+img: Alchem.png
+thumbnail: Alchem.png
+alt: image-alt
+# categories: [Web Development, Machine Learning]
+---
+Fully functional Inventory and accounts management application for Medicine Shops, may it be wholesale firm or a simple retail shop. The software has registration methods for both. Also, internal functionalities are also switched if login mode is changed (Wholesale/Retail)
+<br><br>
+[Source Code](https://github.com/alchemsynergy/Alchem-Desktop)
+
