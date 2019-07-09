@@ -1,0 +1,17 @@
+---
+title: Portable GUI for CCExtractor
+subtitle: Desktop GUI
+layout: default
+modal-id: 3
+date: 2019-07-09
+img: CCExtractor.png
+thumbnail: CCExtractor.png
+alt: image-alt
+categories: [Desktop]
+---
+CCExtractor was selected as an organisation in GSOC'17. I made a GUI in C (using [Nuklear](https://github.com/vurtun/nuklear) library) for their terminal based application (Closed Captions Extractor)
+<br><br>
+[More info](http://techfreakworm.blogspot.com/)
+<br>
+[Source](https://github.com/techfreakworm/ccextractorGUI-nuklear)
+
