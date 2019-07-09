@@ -1,0 +1,19 @@
+---
+title: Sentiment Analysis using Tensorflow.js
+subtitle: Deep Learning
+layout: default
+modal-id: 1
+date: 2019-07-09
+img: SentimentAnalysisUsingTensorflowJS.png
+thumbnail: SentimentAnalysisUsingTensorflowJS.png
+alt: image-alt
+categories: [Web Development, Machine Learning]
+---
+I made this project as a starter to predict sentiment for company's client's data having phone call recordings converted to text. They wanted to know if the conversation was going in the right direction or not and also the intensity in a number so that they could reroute the call to a more suitable customer executive.
+<br><br>
+Though the final project is a part of much bigger project and was trained on data of different genres and not just movie reviews. However, I started out with Movie Reviews, made a python model using Neural networks. I made two to compare which technique works best.
+<br><br>
+I converted them to tensorflow.js compatible model, loaded them to browser, added D3 visualisation for comparison between two models and viola. I had real time comparison of a sentiment prediction model along with prediction confidence.
+<br><br>
+[See it in Action](https://mayankgupta.in/MovieReview-SentimentAnalysis/)
+

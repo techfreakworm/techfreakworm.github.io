@@ -1,0 +1,17 @@
+---
+title: Face Recognition using Tensorflow.js
+subtitle: Deep Learning
+layout: default
+modal-id: 2
+date: 2019-07-09
+img: FaceRecognitionUsingTensorflowJS.png
+thumbnail: FaceRecognitionUsingTensorflowJS.png
+alt: image-alt
+categories: [Web Development, Machine Learning]
+---
+This is an out of Company project I made just to learn tensorflow.js, but it came out pretty good. This application recognises faces on browser. That means, once the website is loaded and you've trained the software with your images, you can even plug off the internet and the facial recognition would work as it should.
+<br><br>
+I made this project completely from scratch, though I used premade python models for facial recognition and converted them to tensorflow.js compatible models.
+<br><br>
+[See it in Action](https://mayankgupta.in/face-recognition-tensorlow.js/)
+
