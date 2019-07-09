@@ -4,8 +4,8 @@ subtitle: Python + UNIX shell application
 layout: default
 modal-id: 7
 date: 2019-07-09
-img: SpyBot.jpg
-thumbnail: SpyBot.jpg
+img: SpyBot.png
+thumbnail: SpyBot.png
 alt: image-alt
 # categories: [Web Development, Machine Learning]
 ---
