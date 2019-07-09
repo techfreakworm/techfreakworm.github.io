@@ -1,0 +1,15 @@
+---
+title: ToDo
+subtitle: Flask + JS application
+layout: default
+modal-id: 8
+date: 2019-07-09
+img: Todo.png
+thumbnail: Todo.png
+alt: image-alt
+# categories: [Web Development, Machine Learning]
+---
+Simple ToDo application with Backend in Python FLask and frontend in plain HTML/CSS and vanilla JS.
+<br><br>
+[See it live!](https://mayankgupta.in/todo-flask/)
+
