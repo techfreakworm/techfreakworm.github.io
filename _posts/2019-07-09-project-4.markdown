@@ -1,0 +1,19 @@
+---
+title: Alexa Skill for E-Commerce
+subtitle: Alexa SDK
+layout: default
+modal-id: 4
+date: 2019-07-09
+img: Alexa.png
+thumbnail: Alexa.png
+alt: image-alt
+# categories: [Web Development, Machine Learning]
+---
+Alexa Skill to order a product, retrieve updates on an already existing order, getting all orders, getting product information. Basically accessing E-commerce website with an ease of use.
+<br><br>
+This came out as a product of a Hackathon held at Cyber Group India pvt. ltd.
+<br><br>
+I mostly worked on interaction model which accesses the E-commerce web API to transfer all the interaction(to and fro) whilst customer interaction.
+<br><br>
+[Source Code](https://github.com/techfreakworm/Team5Hackathon)
+
