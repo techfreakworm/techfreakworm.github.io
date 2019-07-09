@@ -1,0 +1,15 @@
+---
+title: SMS TO API
+subtitle: Android Application
+layout: default
+modal-id: 6
+date: 2019-07-09
+img: Android.jpg
+thumbnail: Android.jpg
+alt: image-alt
+# categories: [Web Development, Machine Learning]
+---
+Simple Android application to get a received SMS from specified sender and send it to the specified Web API. It automatically detects when the message is received from that sender, pretty much in the same way how applications send OTP via SMS and autofill it in the application by reading the SMS themselves.
+<br><br>
+[Source Code](https://github.com/techfreakworm/SmsToAPI)
+
