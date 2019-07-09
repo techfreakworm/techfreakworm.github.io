@@ -1,0 +1,15 @@
+---
+title: Startup India
+subtitle: Android Application
+layout: default
+modal-id: 9
+date: 2019-07-09
+img: StartupIndia.png
+thumbnail: StartupIndia.png
+alt: image-alt
+# categories: [Web Development, Machine Learning]
+---
+Product of Smart India Hackathon 2017, Startup India is an Android Application, new and improved version of already existing app from Ministry of Commerce. An organisation can register as a startup, registered startup can check for their approval and registration, new user can view detail about registering a startup with ministry of commerce.
+<br><br>
+[Source Code](https://github.com/techfreakworm/StartupIndia)
+
