@@ -1,58 +1,48 @@
-# Site wide configuration
+url: https://mayankgupta.in
+baseurl: 
 
-title: Techfreak's journey
-locale: en_US
-description: Every journey is worth sharing, not to inspire people, but ideas.
-logo: site-logo.png
-search: true
-url: https://techfreakworm.github.io
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
-kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
-
-mathjax: true
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+# Site settings
+title: Mayank Gupta
+email: me@mayakngupta.in
+description: "Things I learned then made, things that made me learn and things that I made to learn."
 
 
-# Site owner
-owner:
-  name: Mayank Gupta
-  avatar: bio-photo.jpg
-  email: me@mayankgupta.in
-  disqus-shortname: techfreakworm
-  twitter: techfreakworm
-  facebook: techfreakworm
-  github: techfreakworm
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: techfreakworm
-  instagram: mayankgupta04
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    # plus: MayankGuptatechfreak
-    analytics: UA-65053216-2
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+# Team names, titles and social links
+people:
+- name: Mayank Gupta
+  pic: 1
+  position: Software Developer and Data Scientist
+  social:
+    - title: twitter
+      url: https://twitter.com/techfreakworm
+    - title: linkedin
+      url: https://www.linkedin.com/in/techfreakworm/
+    - title: stack-overflow
+      url: https://stackoverflow.com/users/5230057/mayank-gupta
+    - title: medium
+      url: https://medium.com/@techfreakworm
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+#   - title: linkedin
+#     url: http://linkedin.com/techfreakworm
+#   - title: medium
+#     url: http://medium.com/techfreakworm
+
+# Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
