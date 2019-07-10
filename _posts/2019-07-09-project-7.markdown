@@ -12,4 +12,6 @@ alt: image-alt
 Spying application. Logs all the keystrokes, captures screenshot and sends them to your google drive folder every minute. Parental monitoring at its best.
 <br><br>
 [Source Code](https://github.com/techfreakworm/spybot)
+<br>
+[Read the medium article!](https://medium.com/@techfreakworm/how-to-create-a-spy-monitoring-system-in-nix-system-48db23380615)
 
