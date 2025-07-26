@@ -1,4 +1,5 @@
 import { personalData } from "@/utils/data/personal-data";
+import { mediumBlogs } from "@/utils/data/medium-blogs";
 import AboutSection from "./components/homepage/about";
 import Blog from "./components/homepage/blog";
 import ContactSection from "./components/homepage/contact";
@@ -9,17 +10,9 @@ import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 
 async function getData() {
-  const res = await fetch(`https://dev.to/api/articles?username=${personalData.devUsername}`)
-
-  if (!res.ok) {
-    throw new Error('Failed to fetch data')
-  }
-
-  const data = await res.json();
-
-  const filtered = data.filter((item) => item?.cover_image).sort(() => Math.random() - 0.5);
-
-  return filtered;
+  // Using static Medium blog data
+  // For dynamic fetching, you could implement RSS feed parsing here
+  return mediumBlogs.sort(() => Math.random() - 0.5);
 };
 
 export default async function Home() {

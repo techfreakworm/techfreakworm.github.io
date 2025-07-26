@@ -25,7 +25,7 @@ function BlogCard({ blog }) {
           <div className="flex items-center gap-3">
             <p className="flex items-center gap-1">
               <BsHeartFill />
-              <span>{blog.public_reactions_count}</span>
+              <span>{blog.positive_reactions_count || blog.public_reactions_count}</span>
             </p>
             {blog.comments_count > 0 &&
               <p className="flex items-center gap-1">

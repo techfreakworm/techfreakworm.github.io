@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Mayank Gupta - Technical Project Manager & Software Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Mayank Gupta. I am a Technical Project Manager and Software Developer with 7+ years of experience in AI/ML, data science, and full-stack development. I lead software projects, work with cutting-edge technologies, and have a passion for financial engineering and quantitative analysis.",
 };
 
 export default function RootLayout({ children }) {
