@@ -11,9 +11,10 @@ function Footer() {
           <div className="absolute top-0 h-[1px] w-1/2  bg-gradient-to-r from-transparent via-violet-500 to-transparent"></div>
         </div>
         <div className="flex flex-col md:flex-row items-center justify-between">
-          <p className="text-sm">
+          <p className="text-sm text-center md:text-left">
             © Developer Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/techfreakworm/" className="text-[#16f2b3]">Mayank Gupta</Link>
           </p>
+          {/* Star and Fork buttons commented out for private repo
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
@@ -32,6 +33,7 @@ function Footer() {
               <span>Fork</span>
             </Link>
           </div>
+          */}
         </div>
       </div>
     </div >
